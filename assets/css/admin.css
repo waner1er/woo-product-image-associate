@@ -1,0 +1,21 @@
+/**
+ * Admin styles for WooCommerce Product Image Associate plugin.
+ */
+
+.wpia-wrap {
+	max-width: 800px;
+}
+
+.wpia-wrap h1 {
+	margin-bottom: 12px;
+}
+
+.wpia-wrap p {
+	font-size: 14px;
+	color: #3c434a;
+	margin-bottom: 16px;
+}
+
+.wpia-wrap .button-primary {
+	margin-top: 4px;
+}

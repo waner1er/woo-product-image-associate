@@ -1,0 +1,70 @@
+# Copyright (C) 2024 Erwan RIVET
+# This file is distributed under the same license as the Import Products with Images plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Import Products with Images 2.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/woo-product-image-associate\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-01-01T00:00:00+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.x\n"
+"X-Domain: woo-product-image-associate\n"
+
+#. Plugin Name of the plugin
+msgid "Import Products with Images"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid ""
+msgstr ""
+
+#. Description of the plugin
+msgid "A plugin to import products with images associated by product SKU."
+msgstr ""
+
+#. Author of the plugin
+msgid "Erwan RIVET"
+msgstr ""
+
+#: includes/class-admin-menu.php
+msgid "Import SKU Images"
+msgstr ""
+
+#: includes/class-admin-page.php
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: includes/class-admin-page.php
+msgid "Click the button below to associate media library images to WooCommerce products based on their SKU."
+msgstr ""
+
+#: includes/class-admin-page.php
+msgid "Start Import"
+msgstr ""
+
+#: includes/class-admin-page.php
+msgid "Security check failed. Please try again."
+msgstr ""
+
+#: includes/class-admin-page.php
+#. translators: 1: number of products processed, 2: number of images associated
+msgid "Import complete. %1$d product(s) processed, %2$d image(s) associated."
+msgstr ""
+
+#: includes/class-admin-page.php
+#. translators: 1: number of products processed, 2: number of images associated, 3: list of errors
+msgid "Import finished with errors. %1$d product(s) processed, %2$d image(s) associated. Errors: %3$s"
+msgstr ""
+
+#: includes/class-admin-page.php
+msgid "You do not have sufficient permissions to perform this action."
+msgstr ""
+
+#: includes/class-product-image-matcher.php
+#. translators: 1: product ID, 2: error message
+msgid "Error processing product %1$d: %2$s"
+msgstr ""
